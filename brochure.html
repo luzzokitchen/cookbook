@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Team Blue Brochure</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/stylesheet1.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+body {margin:25px;}
+.button {
+  background-color: #0099ff; 
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 19px;
+}
+.button:hover {background-color: #0086df}
+#my_centered_buttons { display: flex; justify-content: center; }
+#my_centered_imgs { display: flex; justify-content: center; }
+</style>
+<head>
+  <link rel="icon" type="image/png" href="https://camosuncapstone2020teamblue.github.io/eportfolio/img/favicon.png"/>
+</head>
+<body>
+<!-- Header -->
+<header class="w3-container kelly-blue w3-center" style="padding:128px 16px">
+  <h1 class="w3-margin w3-jumbo">Camosun ICS Capstone 2020</h1>
+  <h1 class="w3-margin w3-jumbo">Team Blue</h1>
+  <h1 class="w3-margin w3-jumbo">BC Government Playbook</h1>
+</header>
+<!-- Intro Grid / White -->
+<div class="w3-row-padding w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-twothird">
+      <h5 class="w3-padding-32">
+          <p>Team Blue consists of Josh Dueck, Murphy Li, and Kelly Marcheluzzo.</p>
+        <p>Our clients, <a href="mailto:robert.w.kobenter@gov.bc.ca">Robert Kobenter</a> and Grant Graham, who represent the BC Government Ministry of Citizens’ Services, conceived of this project because of their desire for a set of guidelines for application development within the BC Government. The following passage from the playbook outlines their vision: </p>
+      </h5>
+    </div>
+    <div class="w3-third w3-center">
+        <br>
+        <br>
+        <br>
+        <img height=78px width=200px src="https://camosuncapstone2020teamblue.github.io/eportfolio/img/camosun.png" alt="">
+    </div>
+  </div>
+</div>
+<!-- Quote grid / White -->
+<div class="w3-row-padding  w3-padding-64 w3-container">
+    <div class="w3-content">
+        <div class="w3-third w3-center">
+            <img height=189px width=200px src="https://camosuncapstone2020teamblue.github.io/eportfolio/img/BC-government-logo.jpg" alt="">
+          </div>
+      <div class="w3-twothird">
+        <p style="font-style: italic;" class="w3-text-grey">
+            This playbook is designed to help you on your IT project journey, and to navigate the development and support of government applications within an Agile framework. It provides you with a collection of references, tools, and best practices.
+            <br>
+            <br>
+            It contributes to a shared understanding of the solution ecosystem, from ideation to operation and maintenance. “Plays” describe valuable patterns that project teams should consider as part of their modern digital product management lifecycle.
+            <br>
+            <br>
+            This playbook provides the IMB and our partners, vendors, and clients with key resources that will help them identify, use, and leverage trustworthy sources of knowledge that are regularly improved with the aim of enhancing and simplifying the IT solution delivery experience.
+        </p>
+      </div>
+    </div>  
+  </div>
+<!-- Project Grid / Gray -->
+<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+  <div class="w3-content">
+    <h1 id="my_centered_buttons" style="text-decoration: underline;">The Project</h1>
+    <div >
+      <h5 class="w3-padding-32">
+          The BC Government Playbook project's main goal was to produce a playbook that will help guide teams in ideating, developing, and sustaining IT solutions.
+        <p>
+          Our sponsor took an active role in the development of this project by writing the content of the playbook. It was up to Team Blue to deliver a website that displays that content, a technical solution that validates the playbook content, and an OpenShift deployment infrastructure to hold the solution.
+        </p>
+        <p>
+          Our sponsor also gave us the task of coming up with the idea for the solution itself. It was a very unique opportunity to be given freedom to create whatever application we wanted, with the only requirement being that it validates the content of the playbook in some meaningful way. We settled on the very practical idea of a web application with the goal of navigating the <a target="_blank" href="https://catalogue.data.gov.bc.ca/dataset/bc-gov-news-api-service">BC Government News API Service</a> in a more stripped down and user-friendly way than the pre-existing <a target="_blank" href="https://news.gov.bc.ca/">BC Gov News</a> site. 
+        </p>
+        <br>
+        <div id="my_centered_imgs">
+          <div>
+            <img style="border-radius: 8px;" height=250px width=500px src="https://camosuncapstone2020teamblue.github.io/eportfolio/img/playbook.png" alt="">
+            <figcaption id="my_centered_buttons">The Playbook Website</figcaption>
+          </div>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <div>
+            <img style="border-radius: 8px;" height=250px width=500px src="https://camosuncapstone2020teamblue.github.io/eportfolio/img/SolutionV2.png" alt="">
+            <figcaption id="my_centered_buttons">The Solution</figcaption>
+          </div>
+        </div>
+        <br>
+        <p>
+          In order to properly deliver and validate a Modern Application Playbook, the team utilized the following technologies and concepts:
+        </p>
+        <br>
+        <div id="my_centered_buttons">
+          <a class="button" target="_blank" href="https://www.atlassian.com/agile">Agile</a> &nbsp;&nbsp;
+          <a class="button" target="_blank" href="https://reactjs.org/">React</a> &nbsp;&nbsp;
+          <a class="button" target="_blank" href="https://nodejs.org/en/">Node.js</a> &nbsp;&nbsp;
+          <a class="button" target="_blank" href="https://jekyllrb.com/">Jekyll</a> &nbsp;&nbsp;
+          <a class="button" target="_blank" href="https://github.com/about">GitHub</a> &nbsp;&nbsp;
+          <a class="button" target="_blank" href="https://www.jenkins.io/">Jenkins</a> &nbsp;&nbsp;
+          <a class="button" target="_blank" href="https://www.openshift.com/learn/what-is-openshift">OpenShift</a>
+        </div>
+        <br>
+        <p>
+          Team Blue considers this a very successful project. Please feel free to view our work, and the code behind it, at the links provided below.
+        </p>
+      </h5>
+      <div id="my_centered_buttons">
+        <a class="button"  target="_blank" href="https://bcgov.github.io/CITZ-IMB-playbook">Playbook Website</a> &nbsp;&nbsp;
+        <a class="button"  target="_blank" href="https://github.com/bcgov/CITZ-IMB-playbook">Playbook GitHub</a> &nbsp;&nbsp;
+        <a class="button"  target="_blank" href="https://capstone2020-xordpe-prod.pathfinder.gov.bc.ca">Solution Website</a> &nbsp;&nbsp;
+        <a class="button"  target="_blank" href="https://github.com/bcgov/CITZ-IMB-Capstone2020">Solution GitHub</a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Team Grid / White -->
+<div class="w3-row-padding w3-padding-64 w3-container">
+    <div class="w3-content">
+        <h1 id="my_centered_buttons" style="text-decoration: underline;">The Team</h1>
+        <br>
+      <div class="w3-twothird ">
+        <div class="col-md-9">
+            <h4 style="text-decoration: underline;" class="my-1"><strong><a href="mailto:josh.dueck@hotmail.com">Josh Dueck</a></strong></h4>
+            <h5 style="color:#0099ff">Solution Developer</h5>
+            <h5>Josh has experience from school in software development and UI design. 
+              He hoped to sharpen those skills during this project, to facilitate his dream of one day becoming the CEO of Amazon. Josh brought a healthy and balanced perspective, along with the ability to generate useful and creative ideas.
+            </h5>
+        </div>
+      </div>  
+      <div class="w3-third w3-center">
+        <img style="border-radius: 8px;" height=300px width=200px src="https://camosuncapstone2020teamblue.github.io/eportfolio/img/Josh.png" alt="">
+        <br><br>
+      </div>
+      <div class="w3-twothird">
+        <div class="col-md-9">
+            <h4 style="text-decoration: underline;"class="my-1"><strong><a href="mailto:liqi316@live.com">Murphy Li</a></strong></h4>
+            <h5 style="color:#0099ff">DevOps Engineer and OpenShift Developer</h5>
+            <h5>Similar to Josh, Murphy also has good experience in software development from school. Over the course of the project, he wanted to branch from development to DevOps by mastering the OpenShift platform that the application lives in. Murphy brought his keen research abilities to the project.
+            </h5>
+        </div>
+      </div>  
+      <div class="w3-third w3-center">
+        <img style="border-radius: 8px;" height=300px width=200px src="https://camosuncapstone2020teamblue.github.io/eportfolio/img/Murphy.png" alt="">
+        <br><br>
+      </div>
+      <div class="w3-twothird">
+        <div class="col-md-9">
+            <h4 style="text-decoration: underline;" class="my-1"><strong><a href="mailto:marchkellyj@gmail.com">Kelly Marcheluzzo</a></strong></h4>
+            <h5 style="color:#0099ff">Playbook Website Developer and Scrum Master</h5>
+            <h5>Kelly is career focused and hopes to land a job in the public sector. With a previous co-op in the Federal Government, he is quite happy to also gain exposure to government at the provincial level. Navigating the various levels of procedures and approvals found in the public sector is something he finds challenging yet rewarding.
+            </h5>
+        </div>
+      </div>  
+      <div class="w3-third w3-center">
+        <img style="border-radius: 8px;" height=300px width=200px src="https://camosuncapstone2020teamblue.github.io/eportfolio/img/Kelly.png" alt="">
+      </div>
+    </div>
+  </div>
+<!-- Thanks Grid / White -->
+<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+    <div class="w3-content">
+      <div >
+        <h1 id="my_centered_buttons" style="text-decoration: underline;">Thank You</h1>
+        <h5 class="w3-padding-32">
+            <p>Team Blue would like to thank their sponsors, along with Camosun’s ICS faculty and chair, Saryta Schaerer, for their support in this project. </p>
+            <p>We've had quite an adventure while making this project a reality, and we are certain that we will look back on our work with pride.</p>
+        </h5>
+      </div>
+    </div>
+  </div>
+<!-- Footer -->
+<div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
+    <h1 class="w3-margin w3-xlarge">Camosun Capstone 2020: Team Blue</h1>
+</div>
+<script>
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+</script>
+</body>
+</html>
