@@ -1,1 +1,1 @@
-[pizza](../recipes/pizza.html)
+[pizza](/cookbook/recipes/pizza.html)
