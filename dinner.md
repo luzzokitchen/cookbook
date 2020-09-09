@@ -1,1 +1,1 @@
-[pizza](/recipes/pizza.html)
+[pizza](../recipes/pizza.html)
