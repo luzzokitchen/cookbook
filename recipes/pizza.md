@@ -1,4 +1,3 @@
-# Pizza
 
 Some text about the pizza.
 
