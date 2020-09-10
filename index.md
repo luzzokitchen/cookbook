@@ -1,1 +1,1 @@
-Thanks for visiting the cookbook! Please check out the links above for different recipes.
+## Thanks for visiting the cookbook! Please check out the links above for different recipes.
