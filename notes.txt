@@ -4,3 +4,7 @@ python3 -m http.server
 #d46ce7 purple
 #e9f259 yellow
 #7cf4d3 turq
+
+#519f98 	(81,159,152) green 
+	#5a76ae 	(90,118,174) purple
+	#625cb3 	(98,92,179) grape
