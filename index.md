@@ -1,7 +1,7 @@
 # All Recipes
 
 # A
-- ## [Aioli, Garlic](/cookbook/recipes/pizza.html)
+- ## [Aioli, Garlic](/cookbook/recipes/garlic-aioli.html)
 
 # B
 - ## [Bread, Focaccia](/cookbook/recipes/pizza.html)
