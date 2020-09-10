@@ -1,10 +1,13 @@
+Commands:
 python3 -m http.server
+
+Colours:
 #9effb8 green
 #89aee1 blue
 #d46ce7 purple
 #e9f259 yellow
 #7cf4d3 turq
-
+https://www.color-hex.com/color-palette/97628
 #519f98 	(81,159,152) green 
-	#5a76ae 	(90,118,174) purple
-	#625cb3 	(98,92,179) grape
+#5a76ae 	(90,118,174) purple
+#625cb3 	(98,92,179) grape
