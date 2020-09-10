@@ -8,4 +8,4 @@ This is a simple garlic aioli.
 - 1 garlic clove crushed
 
 ## Instructions:
-- Mix it all together!
+1. Mix it all together!

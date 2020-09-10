@@ -7,7 +7,7 @@ Some text about the pizza.
 - three
 
 ## Instructions:
-- one
-- two 
-- three
-- four
+1. one
+2. two 
+3. three
+4. four
