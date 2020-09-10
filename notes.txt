@@ -11,3 +11,21 @@ https://www.color-hex.com/color-palette/97628
 #519f98 	(81,159,152) green 
 #5a76ae 	(90,118,174) purple
 #625cb3 	(98,92,179) grape
+
+Recipe Nav:
+    <a class="button" href="../index.html">Home</a> &nbsp;&nbsp;
+    <a class="button" href="../sections/breakfast.html">Breakfast</a> &nbsp;&nbsp;
+    <a class="button" href="../sections/lunch.html">Lunch</a> &nbsp;&nbsp;
+    <a class="button" href="../sections/dinner.html">Dinner</a> &nbsp;&nbsp;
+    <a class="button" href="../sections/dessert.html">Dessert</a> &nbsp;&nbsp;
+    <a class="button" href="../sections/snacks.html">Snacks</a> &nbsp;&nbsp;
+    <a class="button" href="../sections/baby.html">Baby</a>
+
+Section Nav:
+    <a class="button" href="../index.html">Home</a> &nbsp;&nbsp;
+    <a class="button" href="breakfast.html">Breakfast</a> &nbsp;&nbsp;
+    <a class="button" href="lunch.html">Lunch</a> &nbsp;&nbsp;
+    <a class="button" href="dinner.html">Dinner</a> &nbsp;&nbsp;
+    <a class="button" href="dessert.html">Dessert</a> &nbsp;&nbsp;
+    <a class="button" href="snacks.html">Snacks</a> &nbsp;&nbsp;
+    <a class="button" href="baby.html">Baby</a>
