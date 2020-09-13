@@ -3,7 +3,7 @@ This is a simple garlic aioli.
 
 ## Ingredients:
 - ⅓ cup mayo
-- 1-2 tsp dijon mustard
+- 1-2 tsp dijon mustard (optional)
 - 2 tsp lemon juice
 - 1 garlic clove crushed
 
