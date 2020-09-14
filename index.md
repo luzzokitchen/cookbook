@@ -2,7 +2,7 @@
 - [Aioli, Garlic](/cookbook/recipes/garlic-aioli.html)
 
 # B
-- [Bread, Focaccia](/cookbook/recipes/pizza.html)
+- [Bread, Focaccia](/cookbook/recipes/focaccia.html)
 - [Bread, Zucchini](/cookbook/recipes/pizza.html)
 - [Burger, Black Bean](/cookbook/recipes/pizza.html)
 

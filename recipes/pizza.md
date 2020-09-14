@@ -1,12 +1,12 @@
-# Description:
+# Description
 Some text about the pizza.
 
-# Ingredients:
+# Ingredients
 - one
 - two
 - three
 
-# Instructions:
+# Instructions
 1. one
 2. two 
 3. three
