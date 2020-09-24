@@ -1,4 +1,601 @@
-git add .
-git commit -m "Update"
-git push origin master
-npm run deploy
+//////////////////////////////////////////////////////////////
+Commands:
+//////////////////////////////////////////////////////////////
+python3 -m http.server
+
+//////////////////////////////////////////////////////////////
+Colours:
+//////////////////////////////////////////////////////////////
+#9effb8 green
+#89aee1 blue
+#d46ce7 purple
+#e9f259 yellow
+#7cf4d3 turq
+https://www.color-hex.com/color-palette/97628
+#519f98 	(81,159,152) green 
+#5a76ae 	(90,118,174) purple
+#625cb3 	(98,92,179) grape
+
+//////////////////////////////////////////////////////////////
+Recipe Nav:
+//////////////////////////////////////////////////////////////
+    <a class="button" href="../index.html">Home</a> &nbsp;&nbsp;
+    <a class="button" href="../sections/breakfast.html">Breakfast</a> &nbsp;&nbsp;
+    <a class="button" href="../sections/lunch.html">Lunch</a> &nbsp;&nbsp;
+    <a class="button" href="../sections/dinner.html">Dinner</a> &nbsp;&nbsp;
+    <a class="button" href="../sections/dessert.html">Dessert</a> &nbsp;&nbsp;
+    <a class="button" href="../sections/snacks.html">Snacks</a> &nbsp;&nbsp;
+    <a class="button" href="../sections/baby.html">Baby</a>
+
+Section Nav:
+    <a class="button" href="../index.html">Home</a> &nbsp;&nbsp;
+    <a class="button" href="breakfast.html">Breakfast</a> &nbsp;&nbsp;
+    <a class="button" href="lunch.html">Lunch</a> &nbsp;&nbsp;
+    <a class="button" href="dinner.html">Dinner</a> &nbsp;&nbsp;
+    <a class="button" href="dessert.html">Dessert</a> &nbsp;&nbsp;
+    <a class="button" href="snacks.html">Snacks</a> &nbsp;&nbsp;
+    <a class="button" href="baby.html">Baby</a>
+
+//////////////////////////////////////////////////////////////
+Recipes:
+//////////////////////////////////////////////////////////////
+
+Cookbook Recipes
+
+Chicken Shawarma
+Quick Garlic Aioli
+Best butternut squash pasta sauce
+Ingredients:
+Directions:
+Black bean burgers
+Ingredients
+Instructions
+Notes
+How to Make Zucchini Bread Muffins
+INGREDIENTS
+Blueberry Buttermilk Pancakes
+INGREDIENTS
+RECIPE PREPARATION
+Arugula and Potato Salad
+Morrocon Spiced Carrots
+CARROTS
+Instructions
+Jerk Chicken Drumsticks with Yogurt Sauce
+Drumsticks
+Yogurt Sauce
+Mango Chutney
+Veg Samosa
+Spicy Mustard
+Mum’s Banana Breakfast Cookies
+Carrot Cookies
+Quinoa Fried Rice
+Honey Garlic Chicken
+Homemade Pretzels
+Focaccia
+Chicken Salsa Verde
+Vegan Mini Pumpkin Pies
+Mini Eggnog Cheesecake
+Sandwich Bread
+Teriyaki Sauce
+Freezer Burritos
+White Bean Pesto Hummus
+Cashew Buddha Bowl Sauce
+Garlic Mayo
+Apple Crisp
+Mexi-Bowl
+Banana Ice Cream
+Rosemary Blueberry Scones
+Pickled Red Onions
+INGREDIENTS
+INSTRUCTIONS
+Vegan Parm Tofu
+Ingredients
+Instructions
+
+
+Simple Tomato Sauce
+https://cooking.nytimes.com/recipes/1021029-simple-tomato-sauce
+
+INGREDIENTS
+6 tablespoons extra-virgin olive oil
+5 cups diced yellow onions, red onions or shallots 
+ Fine sea salt
+1 (28-ounce) can whole peeled, diced, crushed or puréed tomatoes
+4-5 garlic cloves, thinly sliced
+2 tablespoons tomato paste 
+4 to 5 basil stems OR ½-1 tsp dried basil
+¼ - ½ teaspoon red-pepper flakes 
+PREPARATION
+Set a medium Dutch oven or similar pot over medium heat, and add 4 tablespoons olive oil. When the oil shimmers, add onions and a pinch of salt. Reduce heat to medium-low and cook, stirring regularly, until onions are lightly golden and tender, 16 to 18 minutes.
+In the meantime, pour the tomatoes into a large bowl and use hands to crush, if using whole tomatoes. Pour about 1 1/2 cups water into the can and swirl to rinse any remaining purée off the sides. Add the water to tomatoes in bowl and set aside.
+Once onions are soft and golden, add garlic and cook, stirring, until it threatens to turn golden, about 90 seconds. Add tomato paste, if using, and cook until color deepens, about 3 minutes. Add tomatoes and season with salt. If using, add basil stems and red-pepper flakes. Stirring regularly, allow sauce to come to a boil, then reduce heat to low, cover and simmer until sauce tastes savory and all raw tomato flavor is gone, about 45 minutes.
+Taste and adjust seasoning with salt and add remaining 2 tablespoons oil. Use a hand blender to purée, pass through a food mill or let cool, then purée using a blender or food processor. Tomato sauce can be made 1 day in advance and refrigerated or frozen up to 3 months.
+The Big Lasagna 
+INGREDIENTS
+FOR THE RICOTTA FILLING:
+4 tablespoons extra-virgin olive oil (if using fresh spinach)
+1 pound fresh mature spinach, washed and ends trimmed, 1 pound baby spinach, or 1 1/2 cups frozen spinach, thawed
+ Fine sea salt
+2 pounds ricotta (about 4 cups) - I used 2 cups ricotta instead of 4, no problem
+2 cups mozzarella
+1 cup freshly grated Parmesan 
+20 large fresh basil leaves (from 1 bunch), finely chopped (about 3/4 cup), 2 tablespoons finely chopped fresh Italian parsley or chives, 1 teaspoon finely chopped fresh thyme or marjoram or 1 teaspoon dried Italian seasoning
+I used a few TBSP of Pesto instead, very good! 
+FOR THE BÉCHAMEL:
+½ cup unsalted butter (1 stick)
+½ cup all-purpose flour
+4 cups whole milk
+ Fine sea salt
+ Freshly ground black pepper
+ Ground nutmeg (optional)
+FOR THE ASSEMBLED LASAGNA:
+4 ½ cups Simple Tomato Sauce or 32 ounces store-bought marinara sauce (preferably without added sugar)
+ Fine sea salt
+1 recipe Homemade Lasagna Sheets, 16 fresh store-bought lasagna sheets, 2 (9-ounce) packages dried lasagna noodles (preferably without curly edges) or no-boil noodles (boiled until al dente)
+1 ½ ounces grated Parmesan, Asiago or Grana Padano (1/2 cup)
+3 ounces grated whole-milk or part-skim mozzarella, provolone or even string cheese (1 cup)
+Ground Turkey
+I used one costco pack, browned it then mixed it with finished tomato sauce 
+Roasted Veg
+I used roasted zucchini rounds, add atop a tomato sauce layer
+PREPARATION
+Prepare the ricotta filling: If using fresh spinach, set a large skillet over high heat. (If using thawed frozen spinach, skip to Step 2.) When hot, add 2 tablespoons oil and half the fresh spinach. Season with a pinch of salt and sauté to wilt. Cook until stems are tender, about 3 minutes. Transfer to a baking sheet and allow to cool in a single layer. Repeat with remaining spinach.
+While spinach cools, combine ricotta, mozzarella, Parmesan, basil (OR PESTO) and a generous pinch of salt in a large bowl.
+Taking handfuls of the cooled or thawed spinach, squeeze out as much water as possible, then chop finely and add to cheese mixture. Mix thoroughly, then taste and adjust seasoning for salt. (Filling makes about 6 cups.) Cover and set aside until ready to assemble lasagna. (Ricotta filling can be made 1 day in advance and refrigerated. Bring to room temperature before assembling lasagna.)
+Prepare the béchamel: Set a large, heavy-bottomed pot or Dutch oven over medium heat and add butter. Once butter has melted, whisk in flour, reduce heat to very low and cook for about 15 minutes, stirring regularly to prevent browning. After the mixture foams a bit, it will visibly transform — the butter will separate, the bubbles will reduce in size, and the mixture will look like freshly wet fine sand. Whisking vigorously, slowly pour in milk. Increase heat to medium and whisk until the mixture thickens, about 2 minutes. Add salt, pepper and nutmeg (if using) to taste.
+Return heat to low. Continue cooking, whisking regularly, for 10 to 15 minutes until the sauce is thick and smooth, with no raw flour flavor. Taste and adjust seasoning with salt. If béchamel is lumpy, strain through a fine sieve or purée with an immersion blender. (You’ll have about 3 1/2 cups.) Press a piece of parchment or plastic against the surface of the sauce to prevent a skin from forming and set aside until ready to assemble lasagna. (Béchamel can be made up to 1 day in advance, covered directly and refrigerated. Return to room temperature before using.)
+Prepare the lasagna: Position the highest rack in the oven so that it sits about 6 inches below the top. Heat oven to 400 degrees.
+If tomato sauce, béchamel and ricotta filling are cold, bring to room temperature or warm them as needed.
+Set a large pot of water over high heat. Cover and bring to a boil. Set a large colander in a baking dish and place near stove.
+Season the boiling water generously with salt until it tastes like sea water. Carefully lay one sheet of pasta on the water’s surface. Let it be completely immersed in the boiling water, using a slotted spoon to gently it push down if needed, before adding the next sheet. Add two more pasta sheets in this way and cook for about 2 minutes, or until light in color, floppy in texture and completely cooked through. If pasta bubbles above the water's surface, use a slotted spoon to encourage it back in. Use a sieve to gently remove pasta from the water and into the prepared colander. Rinse under cold water until cool enough to handle, then begin assembly. Continue cooking, draining and rinsing pasta two or three sheets at a time as you assemble lasagna.
+Spoon about 3/4 cup béchamel into a 9-by-13-inch metal, glass or ceramic baking pan, and use a rubber spatula or your hands to generously coat bottom and sides of pan with sauce.
+Gently squeezing any remaining water from the pasta, use two or three sheets to entirely cover the bottom of the pan with minimal overlap, and leave ends hanging over sides. (They’ll be helpful for sealing the top.) All four sides need not have overhang; two is plenty.
+Crumble about 1/3 of the ricotta mixture evenly over pasta to create foundation, then layer with sheets of pasta from edge to edge of pan. Use kitchen shears to help trim pasta to appropriate size and avoid overlap.
+Spread about 1/3 of the tomato sauce over next layer and cover with pasta.
+Spread about 1 cup béchamel evenly over next layer, sprinkle with 1/4 cup grated Parmesan, and cover with pasta.
+Repeat with remaining layers: ricotta, tomato sauce, béchamel and Parmesan, ricotta, tomato sauce, béchamel and Parmesan, following each with a layer of pasta. (If using thicker noodles, you might not be able to fit 8 layers of noodles in the pan. If using store-bought or dried pasta, you can skip the noodle layer between the ricotta and tomato sauce as needed to prevent the lasagna from stretching higher than the top of the pan.)
+For the top, fold overhanging pasta over a whole sheet to create a sealed pasta layer, then spread with remaining béchamel. Gently cover lasagna with a piece of parchment and wrap tightly with foil. Place onto a baking sheet to catch any overflow and bake on prepared rack.
+After 40 minutes, pull lasagna from oven and carefully remove foil and parchment. Sprinkle with grated mozzarella and return to oven until golden brown and bubbling on surface, about 20 minutes.
+Allow to cool for at least 15 minutes before slicing and serving. Leftover lasagna can be wrapped and refrigerated for up to 4 days. To freeze, bake 30 minutes but do not brown, then cool, and freeze for up to 4 weeks. Defrost, then sprinkle with mozzarella and bake uncovered at 400 degrees for 25 to 30 minutes until golden brown and bubbling on surface.
+**TASTE EACH LAYER TO AVOID UNDER-SALTING/POOR SEASONING! 
+
+
+
+
+Chicken Shawarma
+Shawarma (½ tsp cinnamon)
+Double the red onion 
+https://cooking.nytimes.com/recipes/1017161-oven-roasted-chicken-shawarma
+
+
+
+
+
+Serve with yogurt lime sauce
+Yogurt
+Olive oil
+Lime zest
+Lime juice
+Salt and pepp Apple Cider Vinegar Slaw (red cabbage)
+Apple cider vinegar
+Olive oil
+Honey
+Salt and pepp
+Zucchini Fritters
+Golden Dahl
+https://ohsheglows.com/2015/10/12/golden-red-lentil-dal-with-cilantro-speckled-basmati/
+Quick Garlic Aioli
+⅓ cup mayo
+1-2 tsp dijon mustard
+2 tsp lemon juice
+1 garlic clove crushed
+Best butternut squash pasta sauce
+https://ohsheglows.com/2013/10/21/smoky-butternut-squash-sauce-with-pasta-and-greens/
+Ingredients:
+1/4 cup raw cashews, soaked
+1 (3.5-4 pound) butternut squash, peeled, seeded, and diced (or two (450g) packages chopped squash)
+3/4 cup water
+2 garlic cloves
+2 tablespoons nutritional yeast (optional, but recommended)
+1 tablespoon fresh lemon juice
+1/2 teaspoon onion powder
+1/2 teaspoon smoked paprika
+1/4 teaspoon chili powder
+1 teaspoon fine grain sea salt, or to taste
+1/8 teaspoon liquid smoke
+hot sauce, to taste
+1 (450g) package mini shell or macaroni pasta (use gluten-free, if desired)
+roasted broccoli or sauteed kale leaves, to stir into pasta
+Directions:
+Add cashews in a small bowl and cover with water. Soak overnight or for at least 3-4 hours, until soft and plump. Drain and rinse before use.
+Preheat oven to 425F and line a baking sheet with parchment paper. See note about prepping squash below. Spread out chopped squash on sheet and drizzle with oil. Toss to coat. Sprinkle with salt. Roast for 30-40 minutes, flipping once half way through baking, until squash is fork tender. Let cool for at least 5 minutes.
+Add the soaked and drained cashews, water, garlic, nutritional yeast (if using), lemon juice, onion powder, paprika, chili powder, and 2 cups of cooked squash into a high speed blender. Blend on high until smooth. Now add the salt, liquid smoke, and hot sauce to taste and blend again.
+Cook pasta according to package directions. If using broccoli, kale, or other vegetables, roast or saute those too.
+Add the drained pasta back into the pot. Pour on your desired amount of sauce and stir to combine. Stir in the cooked vegetables, if using. Cook over medium until heated throughout and serve immediately.
+Leftover sauce can be stored in an air-tight container for up to 1 week or so in the fridge. It's great poured on roasted vegetables too!
+***Use blender for smooth sauce
+Black bean burgers
+https://sallysbakingaddiction.com/best-black-bean-burgers/
+Ingredients
+2 (14 ounce) cans black beans, drained, rinsed, and patted dry
+1 Tablespoon extra virgin olive oil
+3/4 cup finely chopped bell pepper (1/2 of a pepper)
+1 cup finely chopped yellow onion (1/2 of a large onion)
+3 garlic cloves, minced (about 1 Tablespoon)
+1 and 1/2 teaspoons ground cumin
+1 teaspoon chili powder
+1/2 teaspoon garlic powder
+1/4 teaspoon smoked paprika
+1/2 cup bread crumbs or oat flour
+1/2 cup feta cheese
+2 large eggs
+1 Tablespoon Worcestershire sauce
+2 Tablespoons ketchup, mayo, or BBQ sauce
+pinch salt + pepper
+Instructions
+Preheat oven to 325°F (163°C). Spread beans evenly onto a lined baking sheet and bake for 15 minutes until slightly dried out.
+Meanwhile, sauté olive oil, chopped pepper, onion, and garlic over medium heat until peppers and onions are soft, about 5-6 minutes. Gently blot some of the moisture out. Place in a large bowl or in a food processor with the remaining ingredients (cumin, chili powder, garlic powder, smoked paprika, bread crumbs, cheese, eggs, worcestershire, ketchup, salt, and pepper). Stir or pulse everything together, then add the black beans. Mash with a fork or pulse the mixture, leaving some larger chunks of beans.
+Form into patties– about 1/3 cup of mixture in each.
+To bake: Place patties on a parchment paper lined baking sheet and bake at 375°F (191°C) for 10 minutes on each side, 20 minutes total. To grill: Place patties on greased aluminum foil and grill 8 minutes on each side. Heat temperature is personal preference as all grills differ. Generally, black bean burgers should grill on medium-high heat about 350°F (177°C) – 400°F (204°C).
+Serve with your favorite toppings. Store leftovers in the refrigerator for up to 5 days.
+Notes
+Freezing Instructions: Cooked or uncooked black bean burgers freeze wonderfully for up to 3 months. Stack between parchment paper in a freezer container or zipped-top bag. Thaw in the refrigerator and reheat to your liking or, if uncooked, cook according to instructions. If desired, you can skip thawing and reheat/cook from frozen for an extra couple minutes.
+Vegan: These black bean burgers are not vegan. To make vegan, leave out the cheese, replace the Worcestershire sauce with a different vegan condiment (your favorite BBQ sauce would be great!) and replace the eggs with 1/3 cup mashed sweet potato.
+Special Tools: Glass Mixing Bowls, Ninja Food Processor, Cast Iron Skillet, Baking Sheet
+How to Make Zucchini Bread Muffins
+https://cookieandkate.com/healthy-zucchini-muffins-recipe/
+INGREDIENTS
+¾ cup roughly chopped raw walnuts or pecans (optional)
+⅓ cup melted coconut oil or extra-virgin olive oil*
+½ cup honey or maple syrup
+2 eggs
+⅔ cup buttermilk (or ⅔ cup milk of choice mixed with 2 teaspoons vinegar, allow to rest for 5 minutes before using)
+1 teaspoon ground cinnamon
+1 teaspoon baking powder
+½ teaspoon baking soda
+½ teaspoon fine-grain sea salt
+¼ teaspoon ground nutmeg
+2 teaspoons vanilla extract
+1 ½ cups grated zucchini (you’ll need 1 small-to-medium zucchini, about 7 ounces—if your grated zucchini is very wet, squeeze out the excess moisture over the sink before stirring it into the batter)
+1 ¾ cups white whole wheat flour or regular whole wheat flour
+INSTRUCTIONS
+Preheat oven to 400 degrees Fahrenheit. If necessary, grease all 12 cups on your muffin tin with butter or cooking spray (my pan is non-stick and doesn’t require any grease).
+Toast the nuts (if using): Once the oven has finished preheating, pour the chopped nuts onto a small, rimmed baking sheet. Bake until the nuts are fragrant and toasted, about 4 to 5 minutes, stirring halfway.
+In a large mixing bowl, combine the coconut oil and honey. Beat them with a whisk until they are combined. Add the eggs and beat well. (If your coconut oil solidifies on contact with cold ingredients, simply let the bowl rest in a warm place for a few minutes, like on top of your stove, or warm it for about 30 seconds in the microwave.)
+Add the buttermilk, cinnamon, baking powder, baking soda, salt, nutmeg and vanilla extract, and whisk to blend. Switch to a big spoon and stir in the zucchini, then add the flour and stir just until combined. A few lumps are ok! Gently fold in the toasted nuts now, if using.
+Divide the batter evenly between the 12 muffin cups. Bake muffins for 16 to 19 minutes, or until the muffins are golden on top and a toothpick inserted into a muffin comes out clean.
+Place the muffin tin on a cooling rack to cool. If you have leftover muffins, store them, covered, at room temperature for two days, or in the refrigerator for up to 4 days. Freeze leftover muffins for up to 3 months.
+. For tall muffin tops, bake the muffins for 5 minutes at 425°F (218°C) then, keeping the muffins in the oven, reduce the oven temperature to 350°F (177°C). Bake for an additional 13-16 minutes or until a toothpick inserted in the center comes out clean. The total time these muffins take in the oven is about 18-21 minutes, give or take. Allow the muffins to cool for 5 minutes in the muffin pan, then transfer to a wire rack to continue cooling.
+Blueberry Buttermilk Pancakes
+INGREDIENTS
+1 cup all-purpose flour
+⅓ cup whole wheat flour
+3-4 teaspoons brown sugar
+1 teaspoon baking powder
+1 teaspoon baking soda
+1 teaspoon kosher salt
+2 large eggs
+1¼ cups buttermilk
+1-2 tablespoons unsalted butter, melted
+½ cup blueberries
+RECIPE PREPARATION
+Whisk flour, sugar, baking powder, baking soda, and salt in a large bowl. Whisk eggs, buttermilk, and butter in a medium bowl; stir into dry ingredients until just combined (some lumps are okay). Fold in blueberries. 
+Heat a griddle or large skillet over medium; brush with oil. Working in batches, scoop ⅓-cupfuls of batter onto griddle. Cook pancakes until bottoms are golden brown and bubbles form on top, about 3 minutes. Flip and cook until cooked through and other side of pancakes are golden brown, about 2 minutes longer. Serve pancakes with maple syrup.
+Arugula and Potato Salad
+Salad: Arugula, potatoes, pickled red onion (see recipe)
+Dressing: 
+2 TBSP Olive Oil
+2.5 tsp Rice vinegar or sherry vinegar
+Salt and Pepper
+1 TBSP dijon (or other) mustard
+1-2 tsp Honey
+Instructions
+Cut potatoes into small bite-sized pieces, toss with oil and salt/pepper, roast at 400 degrees until browned
+Whisk together dressing ingredients, taste and adjust
+Toss arugula with warm potatoes, toss with dressing, toss with onions last.
+Consider adding goat cheese if available 
+Morrocon Spiced Carrots 
+https://minimalistbaker.com/moroccan-spiced-roasted-carrots/
+CARROTS
+1 lb carrots, greens removed, cut on a diagonal into 1-1 ½ inch pieces (1 medium bundle yields ~1 lb)
+2-3 Tbsp avocado oil
+1/4 tsp sea salt
+1 tsp smoked paprika
+1 tsp ground cumin
+1/4 tsp ground ginger
+1/8 tsp ground cinnamon
+1/4 tsp ground turmeric
+1/8 tsp ground cayenne (optional)
+Instructions
+Preheat oven to 375 F (190 C) and line a baking sheet with parchment paper.
+Add carrots to the baking sheet and drizzle with oil, salt, paprika, cumin, ginger, cinnamon, turmeric, and cayenne (optional), and toss well to combine.
+Cook for 20-25 minutes, or until the carrots are tender and slightly browned. Serve hot as is, or with tahini, Za’atar, or our Zesty Dill Yogurt Sauce. These would also make a delicious addition to our Ultimate Mediterranean Bowl.
+Store leftovers covered in the refrigerator for up to 3-4 days. Not freezer friendly. Reheat in a 350 F (176 C) oven, in the microwave, or on the stovetop over medium heat until hot.
+
+Jerk Chicken Drumsticks with Yogurt Sauce
+Drumsticks
+Marinade
+⅓ cup of green onions or red onion
+¼ cup fresh lime juice
+2 TBSP
+Olive oil
+Soy sauce
+Honey
+1 TBSP grated ginger
+2 tsp minced garlic
+2 tsp ground allspice (if no allspice, mix equal parts nutmeg/cinnamon/cloves)
+1 tsp dried thyme, salt, pepper
+½ tsp cinnamon
+½ tsp ground nutmeg
+12 Drumsticks
+Yogurt Sauce
+Plain yogurt
+Salt and pepper
+Dash of olive oil
+Lime zest
+Lime juice
+Pressed garlic
+Process marinade ingredients together, toss with drumsticks, refrigerate (marinate at least 6 hours)
+Mix together yogurt sauce, let sit in fridge for a few hours for flavours to blend
+When ready to cook chicken, bring it out of the fridge and let come to room temp. Transfer to pan with parchment paper, discard extra marinade. Cook at 350 X 1 hour. Broil X 1 minute at end for extra browning. Serve with yogurt sauce. 
+Mango Chutney
+https://thewanderlustkitchen.com/super-simple-mango-chutney/
+Veg Samosa
+https://www.sneakyveg.com/easy-vegetable-samosa-recipe-vegan/
+Add can of chickpeas, run through food processor for a meatier texture
+Add ¼ cup of coconut milk or broth to bind
+Bake for 30 minutes, phyllo will brown
+Good leftover in fridge 
+Spicy Mustard
+https://detoxinista.com/homemade-spicy-mustard/
+Add tablespoon diced garlic 
+Mum’s Banana Breakfast Cookies
+2 cups oats
+1 tsp cinnamon
+½ tsp baking soda
+½ tsp salt
+½ tsp baking powder
+½ cup peanut butter
+2 ++ ripe bananas
+1 tsp vanilla
+⅓ cup raisins
+⅓ cup walnuts chopped 
+ 
+Bake at 350, 14-16 minutes. Will brown up a bit!
+Carrot Cookies
+https://www.savorynothings.com/zucchini-bread-breakfast-cookies/
+Good with carrots
+Add raisins
+Quinoa Fried Rice
+https://www.gimmesomeoven.com/quinoa-fried-rice-recipe/
+Double the eggs
+Add honey garlic chicken or tofu
+Great with just the soy sauce, if not sesame oil on hand
+Honey Garlic Chicken
+Homemade Pretzels
+https://sallysbakingaddiction.com/easy-homemade-soft-pretzels/
+Focaccia
+https://www.gimmesomeoven.com/rosemary-focaccia-bread/
+Notes on rising: can interrupt process by putting dough in fridge, just be sure dough has returned to room temp before further manipulation
+Have refrigerated between 1st and 2nd rise with success
+Oil baking pan prior to inserting dough
+Chicken Salsa Verde
+https://www.gimmesomeoven.com/4-ingredient-slow-cooker-salsa-verde-chicken-recipe/
+Good when beer replaced with chicken broth (Try with beer?)
+Vegan Mini Pumpkin Pies
+https://www.gimmesomeoven.com/4-ingredient-slow-cooker-salsa-verde-chicken-recipe/
+Mini Eggnog Cheesecake
+https://www.bakedbyrachel.com/mini-eggnog-cheesecakes/
+Use gingersnaps for crust
+Sandwich Bread
+https://minimalistbaker.com/the-easiest-whole-grain-seeded-bread/
+
+Teriyaki Sauce
+TERIYAKI SAUCE
+1/3 cup low sodium tamari or soy sauce
+3 tablespoons water
+2 tablespoons maple syrup
+2 tablespoon rice vinegar
+2 cloves crushed garlic
+1/2 teaspoon sriracha
+1/4 teaspoon ground ginger
+1 teaspoon arrowroot starch or cornstarch whisked together with 1 teaspoon of water
+In a saucepan over medium-hight heat, whisk together all of the ingredients for the sauce except the teaspoon of arrowroot mixed with a teaspoon of water.
+Bring the sauce to a boil then whisk in the arrowroot-water slurry.
+Reduce the heat to medium and continue to whisk until the sauce thickens.
+https://reciperunner.com/sheet-pan-crispy-teriyaki-tofu-and-broccoli/
+Just the sauce
+    
+Turkey
+Turkey Stuffing
+Lemon Asparagus with Pistachios
+Mexican Tortilla Pinwheels
+Homemade Quinoa Sushi
+Baked Salmon with Garlic and Dijon
+Gingersnaps
+Potato Arugula Salad
+Zucchini Bread
+
+Greek Chicken
+Golden Daal
+Mum’s Cookies
+Chicken Freezer Tikka
+Lentil Curry Soup (where did I get that?)
+Freezer Burritos
+Lime Cilantro Rice
+Chicken verde
+Black beans and Corn
+Chili powder
+Cumin
+Salt and Pepp
+Spinach
+- Roasted Bell Peppers 
+
+White Bean Pesto Hummus
+Can of white beans
+Scoop of tahini
+Lemon
+Garlic
+pestof
+
+Cashew Buddha Bowl Sauce 
+¾ cup soaked cashews
+¼ cup lemon juice
+1-2 crushed garlic cloves
+3-4 TBSP nutritional yeast
+scoop of tahini 
+3-4 TBSP Olive oil
+Water to thin
+Salt n’ peppa
+Blend cashews in food processor, add all other ingredients. Add water to achieve desired consistency. 
+Garlic Mayo
+2 TBSP Mayo
+½-1 TSP pressed Garlic
+Squeeze lemon
+Apple Crisp
+DECREASE SUGAR →  too sweet as written
+Try ½ cup maple syrup in filling, and ½ brown sugar in topping 
+https://minimalistbaker.com/the-best-vegan-apple-crisp/
+Mexi-Bowl
+Rice
+Pickled Red Onion
+Corn Salsa
+Corn, tomatoes, lime, cilantro, salt and pepper
+Torta Filling (thug life)
+Saute red onion
+Add garlic, 1-2 TBSP chili powder, 1 TSP cumin 
+Add 3 cups black beans and 1.5 cups chicken stock
+Bring to rolling simmer, then decrease to low heat
+Mash up beans with potato masher
+Add juice from one lime and salt
+Top with salsa verde or just a squeeze of lime 
+
+Banana Ice Cream
+https://minimalistbaker.com/easy-banana-ice-cream-tips-2-methods-10-flavors/
+Chocolate PB
+2 TBSP Cocoa Powder
+3 TBSP Peanut Butter
+Dash of Sald
+1 TBSP Maple Syrup
+4 Spotty Bananas
+
+Rosemary Blueberry Scones
+https://minimalistbaker.com/coconut-oil-blueberry-scones-with-rosemary/
+Use ¾ cup ww flour instead of spelt
+See note about coconut oil (needs to be scoopable, put in fridge for 30 minutes then let come back to room temp x 30 minutes)
+Good with fresh rosemary or 1 tsp dried 
+
+Pickled Red Onions
+INGREDIENTS
+ 1 red onion, thinly sliced (use a mandoline if you have one)
+ 1/2 cup apple cider vinegar
+ 1 tablespoon granulated sugar
+ 1 1/2 teaspoons salt
+ 1 cup hot or warm water
+INSTRUCTIONS
+Slice the red onions as thin as you can. I use a mandoline.
+Stuff all the red onions in the jar of your choice. A bowl will work too.
+In a measuring cup, combine apple cider vinegar, salt, sugar, and warm water. Stir to dissolve the sugar and salt. Pour this pickling mixture over your sliced onions, making sure they are immersed in the liquid, and let them set for an hour. After an hour, cover and store in the fridge for up to three weeks.
+Vegan Parm Tofu
+Ingredients
+1 Block(15oz.) Extra firm tofu, pressed
+1 C. Almond milk or other non dairy milk
+1 tsp. Lemon juice
+1 C. All purpose flour
+2 tsp. Salt, divided
+1 1/2 C. Panko bread crumbs
+3 Tbsp. Nutritional yeast
+1 tsp. Garlic powder
+1/2 tsp. Basil, dried
+1/2 tsp. Oregano, dried
+1/4 tsp. Black pepper
+Instructions
+You need to press your tofu before you bake it. Either in a tofu press, or by placing on some paper towels and placing something heavy on top. Press for at least 15 minutes, but the longer the better. 
+Preheat oven to 400 degrees. 
+Then, get 3 mixing bowls. In one bowl, pour the almond milk and lemon juice. Whisk to combine, it should begin to curdle and thicken a bit. 
+In the second bowl, add the flour and 1 tsp. of salt. Whisk to combine. 
+In the third bowl, add the panko, nutritional yeast, garlic, basil, oregano, the remaining 1 tsp. of salt and the pepper. Whisk to combine. 
+When the tofu is ready, slice it through the side, making 4 wide "steaks". 
+Now, spray a baking sheet with non stick spray, or rub it with olive oil. 
+Then, taking one tofu steak, place it in the flour mixture. Coat and shake off the excess, then place into the almond milk, coating completely, then back into the flour, then back into the almond milk, then into the panko. Coat completely with the bread crumbs and herbs. Pressing it on to the tofu if need be, and up the sides. 
+Place the tofu on the baking sheet and repeat with the other slices of tofu. Spray the tops of the tofu with more non stick spray, or drizzle with olive oil. 
+Bake at 400 degrees for 20-25 minutes. Flipping the tofu halfway through baking. Bake until golden brown and crispy. Then I like to sprinkle with a little more salt and a squeeze of lemon. Serve immediately with sides of choice!
+
+CAST IRON SPAGHETTI
+INGREDIENTS
+450 g spaghetti
+450g cherry tomatoes, halved (1-2 pints)
+2 lemons, zested
+¼ cup plus 3 tablespoons olive oil
+2 teaspoons kosher salt, plus more to taste
+1 bunch kale or spinach, leaves only, washed and chopped
+Kalamata Olives (add in at end, optional) 
+ Black pepper
+ Parmesan, for serving
+ADD GROUND TURKEY
+PREPARATION
+Bring 1L of water to a boil. Meanwhile, place spaghetti, tomatoes, lemon zest, oil and 2 teaspoons kosher salt in a large, dry, shallow pan. (The pan should be large enough that the dry spaghetti can lie flat.)
+Carefully add the boiling water to the pan with the spaghetti.Cover pan, and bring up to a boil. Remove the lid and simmer for about 6 minutes, using tongs to move the spaghetti around now and then so it doesn’t stick. Add kale or spinach and continue cooking until remaining liquid has reduced to a sauce and the pasta is cooked through. Taste, season with salt and pepper, and top with parm. (Add protein). 
+
+Baby Quinoa Bites
+1 cup cooked quinoa (in no salt chicken stock)
+1 cup shredded zucchini 
+2 eggs
+¾ cup shredded mozzarella cheese
+Mix together, bake in muffin tins at 350 X 20 mins
+(add: parsley, carrot?)
+
+Golden Dahl
+https://ohsheglows.com/2015/10/12/golden-red-lentil-dal-with-cilantro-speckled-basmati/
+Use Chicken Stock
+Omit cayenne and sugar, use sambal olek to taste (1-3 TBSP)
+
+Baby Blender Muffins
+https://www.mjandhungryman.com/spinach-sweet-potato-blender-muffins-baby-and-kid-friendly/
+Ingredients
+1 cup rolled oats
+1 ripe medium banana, overripe if you want them to be sweeter
+6 ounces (or 3/4 cup) plain Greek yogurt (regular works well!)
+1/2 cup unsweetened applesauce
+2 large handfuls of spinach, see note
+1 large egg or flax egg
+1 teaspoon baking powder
+1/2 teaspoon baking soda
+1 teaspoon cinnamon
+1/3 cup finely chopped walnuts (finely ground for babies in coffee grinder)
+1/2 cup raw grated sweet potatoes (can use carrots, if you wish),
+
+Instructions
+Preheat oven to 350 degrees Farenheit.
+In the food processor/blender add the oats first and then the rest of the ingredients (minus the walnuts and sweet potatoes) into the blender and blend until smooth.
+Stir in walnuts and sweet potatoes. Pour batter evenly into a muffin pan, about 3/4 full.
+Bake for 20 minutes, until inserted toothpick comes out clean.
+If using mini muffin tins or ½ regular size muffins, bake for about 13-15 minutes 
+Cool completely (wait at least 10 minutes) before taking them out of the pan. This is very important! Otherwise, they WILL stick
+Once cooled, store in the refrigerator. If your muffins are on the wetter side (most likely due to the extra moisture from the vegetables. Remember, be sure to squeeze out as much liquid out), they will firm up a bit more in the fridge.
+Notes
+Be sure to squeeze out as much water out of the vegetables as possible! Otherwise, the muffins will be very wet.
+You MUST let these cool completely before removing them from the muffin pan. They WILL stick if you try to remove them before they have cooled.
+How to store? Most definitly keep in the fridge. The muffins will become firmer too. These will stay good in the fridge for up to 4 days or freeze for up to 3 months. When freezing baked goods, I like to use the flash freeze method.
+ 
+
+Baby Palak Paneer
+Ingredients
+
+* 1 tablespoon ginger root, grated
+* 1/2 cup onion, finely chopped
+* 2 teaspoons ground cumin
+* 1 teaspoon ground coriander
+* 1 teaspoon ground turmeric
+* 3/4 cup full-fat, whole milk yogurt
+* 2-3 pounds fresh or frozen spinach (or another green like kale or collards)
+* 1 15-oz can no added salt tomatoes (crushed or diced)
+* 1/4 cup cilantro, chopped
+* 1 container tofu, cubed and pressed to drain
+* Oil for frying tofu 
+
+Instructions
+1. In a large sauce pan heat oil and fry tofu cubes until desired texture. Depending on age and ability of your baby you may also want to include uncooked tofu if baby is new to eating, or fry if baby can handle crispier textures.
+2. In a separate large saucepan, heat oil until shimmering. Add garlic, ginger, and cook until onion is tender, about 5 minutes. Add cumin, turmeric, coriander and yogurt and combine. Then add spinach, cooking and stirring until spinach cooked down - about 10 minutes in total. Remove from heat, allow to cool.
+3. Place spinach mixture in a blender or food processor. Add tomato and cilantro and process until spinach is finely chopped.
+4. Return spinach tomato mixture to pan and keep warm. Combine tofu with spinach and serve to baby. Can be combined with rice or other cooked grain.

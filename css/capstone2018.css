@@ -1,0 +1,42 @@
+/* colo0rs chosen for site address
+#026670 - blue
+#9FEDD7 - light blue
+#FEF9C7 - beigy colo0rs
+#FCE181 - yellowish
+#EDEAE5 - light grey
+*/
+
+body {
+    padding-top: 54px;
+    background-color:#DCDCDC;
+  }
+  
+  
+  @media (min-width: 992px) {
+    body {
+      padding-top: 56px;
+    }
+  }
+  
+  /* .carousel-item  */
+  #classpic{
+    height: 65vh;
+    min-height: 800px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+  .portfolio-item {
+    margin-bottom: 30px;
+  }
+  /*-- navbar background --*/
+  .bg-dark {
+    background-color: #026670 !important;
+  }
+  /*-- button color --*/
+  .btn {
+    background-color: #026670;
+  }
