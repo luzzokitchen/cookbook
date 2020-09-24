@@ -68,7 +68,7 @@
 - [Sharawma, Chicken](/cookbook/recipes/pizza.html)
 
 # T
-
+- [Template](/cookbook/recipes/template.html)
 
 # U
 
